@@ -1,0 +1,19 @@
+
+# COCO 10-class subset
+path: D:/Object_Detection_Project\yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: person
+  1: car
+  2: dog
+  3: cat
+  4: chair
+  5: bicycle
+  6: laptop
+  7: bus
+  8: bird
+  9: couch

@@ -1,0 +1,13 @@
+YOLO Model Summary
+=================
+
+Model 1: /content/models/yolov8m_custom2/weights/best.pt
+Task: detect
+Created: 1745793697.9593844
+File size: 49.61 MB
+
+Model 2: /content/models/yolov8m_custom2/weights/last.pt
+Task: detect
+Created: 1745793697.6003497
+File size: 49.61 MB
+
